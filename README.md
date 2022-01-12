@@ -1,2 +1,4 @@
 # sciencelab-site
-A site created to practice the concepts of html, css, java script and bootstrap.The company Science lab is fictional.
+<p>The development of this project was possible thanks to the course taught by Matheus Battisti. Jquery, Parallax, bootstrap, HTML, CSS and Javascript were used :)<p>
+  <p>Science lab is a fictitious company.</p>
+  <hr>
