@@ -1,0 +1,11 @@
+{
+  "name": "sciencelab-site",
+  "version": "1.0.0",
+  "description": "<p>The development of this project was possible thanks to the course taught by Matheus Battisti. Jquery, Parallax, bootstrap, HTML, CSS and Javascript were used :)<p>\r   <p>Science lab is a fictitious company.</p>\r   <h3>Project images:</h3>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
